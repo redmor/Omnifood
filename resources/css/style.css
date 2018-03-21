@@ -282,6 +282,39 @@ header{
   margin-right: 10px;
 }
 
+/*--------------------------------*/
+/* CITIES*/
+/*--------------------------------*/
+
+.section-cities i{
+  margin-right: 8px;
+  color: #e67e22;
+  font-size: 120%;
+}
+
+.section-cities p{
+  text-transform: capitalize;
+  margin-bottom: 12px;
+}
+
+.section-cities a:visited,
+.section-cities a:link{
+  text-decoration: none;
+  color: #e67e22;
+}
+
+.section-cities a:active,
+.section-cities a:hover{
+  border-bottom: 2px solid #e67e22;
+  color: #e67e22;
+}
+
+.box img{
+  width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
+
 
 
 
